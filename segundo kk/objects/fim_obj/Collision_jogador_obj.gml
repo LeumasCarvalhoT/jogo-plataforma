@@ -1,0 +1,1 @@
+mudando_sprite(fim_spr_move)
